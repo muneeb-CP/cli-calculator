@@ -15,26 +15,19 @@ Error handling for invalid input and division by zero
 
 Python 
 
+How to Run:
 
+Make sure Python 3 is installed on your computer
 
-Make sure Python is installed on your computer
+Download or clone this repository
 
-Clone this repository:
-
-git clone https://github.com/your-username/cli-calculator.git
-
-
-Navigate to the project folder:
-
-cd cli-calculator
-
+Open a terminal in the project folder
 
 
 
 
 
 This project is licensed under the MIT License.
-
 
 
 Muneeb Ahmed
