@@ -36,6 +36,5 @@ cd cli-calculator
 This project is licensed under the MIT License.
 
 
-👤 Author
 
 Muneeb Ahmed
